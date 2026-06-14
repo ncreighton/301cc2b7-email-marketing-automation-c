@@ -1,2 +1,28 @@
-# 301cc2b7-email-marketing-automation-c
-Collect, curate, and display social proof with schema markup and widgets. Convert visitors with authentic Email Marketing &amp; Automation testimonials.
+# Email Marketing & Automation Customer Testimonial and Review Display WordPress Plugin
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/3cI4gz6mX5wg9JKdI0cZd3L)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/3cI4gz6mX5wg9JKdI0cZd3L)
+
